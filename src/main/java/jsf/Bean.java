@@ -40,7 +40,7 @@ public class Bean {
         return "affichage_3?nb="+ nombre + "&amp;faces-redirect=true";
     }
     
-    public String afficher_() {
+    public String afficherV2() {
         return "affichage__3?nb="+ nombre + "&amp;faces-redirect=true";
     }
     
